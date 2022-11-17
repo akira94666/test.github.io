@@ -321,6 +321,9 @@ footer {
   .bg1 {
     background-position: 0px -280px;
   }
+      .bg2{
+    display: block;
+  }
   .a2 {
     margin-top: 200px;
   }

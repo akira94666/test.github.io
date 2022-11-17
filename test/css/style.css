@@ -322,6 +322,12 @@ footer {
     background-position: 0px -280px;
   }
  .bg2:before{
+      content: "";
+  display: block;
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  right: 0;
     background-position: contain;
   }
   .a2 {
